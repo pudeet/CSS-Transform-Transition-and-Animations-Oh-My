@@ -10,10 +10,12 @@ main {
   margin: auto;
   display: flex;
   align-items: center;
+  transform: skew(-7deg, -7deg);
 }
 
 main > div {
   width: 40%;
   margin: auto;
   padding: 10%;
+
 }
